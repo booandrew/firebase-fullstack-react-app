@@ -1,0 +1,5 @@
+  [
+    { "id": 1, "label": "Поболтать про бургеры во Франции", "important": false, "done": true },
+    { "id": 2, "label": "Процитировать пророка Иезекииля", "important": true, "done": false },
+    { "id": 3, "label": "Пострелять", "important": false, "done": false }
+  ]
